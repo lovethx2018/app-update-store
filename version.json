@@ -1,7 +1,7 @@
 {
   "version": "1.4.9",
   "tag": "v1.4.9",
-  "notes": "v1.4.9 更新内容：\n1. 恢复 Windows 7/10/11 全版本支持（Python 3.8.10）",
+  "notes": "开发人员未说明更新了说明",
   "download_url": "https://github.com/lovethx2024/standard-query-tool/releases/download/v1.4.9/StandardQueryTool_v1.4.9_win7_py38.exe",
   "download_urls": [
     "https://github.com/lovethx2024/standard-query-tool/releases/download/v1.4.9/StandardQueryTool_v1.4.9_win7_py38.exe"
